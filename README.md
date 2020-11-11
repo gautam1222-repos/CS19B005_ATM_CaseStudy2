@@ -16,8 +16,7 @@
 15. 4 for seeing all your previous transactions(as given in individual constraint)
 16. if you enter any other number you will be get shown nothing 
 17. after each of the operations in last above 5 points (i.e. point 7 to 11) you will be asked if you want to leave the ATM if  yes enter 0 to log out and 1 for back to menu
-18. Also in each of these operations you will be reduced Rs.25/- if your account does not belong to BankA.(as given in individual constraint)
+18. Also in each of these operations you will be reduced Rs.25/- if your account does not belong to BankA.(as given in individual constraint).
 19. Everything here will be here sent to bank ,i.e. account number,PIN,withdrawing amount and depositing amount will be sent to bank. 
-20. Every customer has a file which can be accessed by bank(as given in individual constraint)
+20. Every customer has a file which can be accessed by bank(as given in individual constraint).
 21. All the functionality is changed to Amin from Atm class (as given in individual constraint). 
-
