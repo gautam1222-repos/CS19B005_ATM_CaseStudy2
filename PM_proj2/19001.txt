@@ -1,0 +1,11 @@
+BankA
+19101
+123432
+nullnull
+Viewed Account Balance at17:53:13  11/11/2020
+Withdrawn 100 at 17:53:13  11/11/2020
+Deposited 100 at 17:53:13  11/11/2020null
+Viewed Account Balance at17:55:31  11/11/2020null
+Viewed Account Balance at17:56:02  11/11/2020
+Viewed Account Balance at17:56:02  11/11/2020
+Viewed Account Balance at17:56:02  11/11/2020

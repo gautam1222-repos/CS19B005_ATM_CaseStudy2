@@ -1,0 +1,8 @@
+BankB
+18105
+123332
+Viewed Account Balance at16:55:04  11/11/2020
+Withdrawn 432 at 16:55:04  11/11/2020
+Deposited 332 at 16:55:04  11/11/2020null
+Viewed Account Balance at17:58:59  11/11/2020
+Viewed Account Balance at18:06:55  11/11/2020
