@@ -20,3 +20,4 @@
 19. Everything here will be here sent to bank ,i.e. account number,PIN,withdrawing amount and depositing amount will be sent to bank. 
 20. Every customer has a file which can be accessed by bank(as given in individual constraint)
 21. All the functionality is changed to Amin from Atm class (as given in individual constraint). 
+
